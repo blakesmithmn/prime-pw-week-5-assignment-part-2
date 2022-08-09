@@ -5,9 +5,10 @@ header {
 }
 
 body {
-    margin: ;
+    margin: 0;
     padding: 0;
-    /* background-repeat:  record.png ; */
+    background-image: url(record.png);
+    background-repeat: ;
 }
 
 main {
