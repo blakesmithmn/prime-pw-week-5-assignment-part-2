@@ -1,0 +1,16 @@
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+body {
+    margin: ;
+    padding: 0;
+    /* background-repeat:  record.png ; */
+}
+
+main {
+    padding: 1em;
+    background-color: lightgray;
+}
