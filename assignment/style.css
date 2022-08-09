@@ -1,6 +1,6 @@
 header {
-    background-color: black;
-    color: white;
+    background-color: #231942;
+    color: #e0b1cb;
     text-align: center;
 }
 
@@ -9,6 +9,7 @@ body {
     padding: 0;
     background-image: url(record.png);
     background-repeat: ;
+    background-color: #9f86c0;
 }
 
 main {
