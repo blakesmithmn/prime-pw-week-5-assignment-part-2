@@ -17,3 +17,9 @@ main {
     background-color: lightgray;
     text-align: center;
 }
+
+.content {
+    color: white;
+    padding: 5px;
+    background-color: black;
+}
